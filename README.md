@@ -6,3 +6,4 @@ Getting a rapid understanding of the context of a patient’s overall health has
 
 The target feature is hospital_death which is a binary variable. The task is to classify this variable based on the other 84 features step-by-step by going through each day's task. The scoring metric is Accuracy/Area under ROC curve.
 
+![image](https://user-images.githubusercontent.com/72542171/177054821-349d75c9-54dd-4b26-9cea-4120fc9d2c61.png)
