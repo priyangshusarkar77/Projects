@@ -2,6 +2,7 @@
 
 ## Personal and Major Projects
 
+![image](https://user-images.githubusercontent.com/72542171/178118122-05f15487-fc92-4ea5-8777-3e1c70c2796f.png)
 
 
 ## Predicting Survival of Patient
