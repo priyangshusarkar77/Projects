@@ -26,8 +26,7 @@ The training data includes the question that was asked, and whether it was ident
 
 Note that the distribution of questions in the dataset should not be taken to be representative of the distribution of questions asked on Quora. This is, in part, because of the combination of sampling procedures and sanitization measures that have been applied to the final dataset.
 
-![image](https://user-images.githubusercontent.com/72542171/178116769-b412768e-42c0-4e14-afc2-198081c8f3d7.png)   ![image](https://user-images.githubusercontent.com/72542171/178116776-e52bd52a-621a-482c-a4cb-b4adb0fe5723.png)
-
+![image](https://user-images.githubusercontent.com/72542171/178116769-b412768e-42c0-4e14-afc2-198081c8f3d7.png)  
 
 
 
